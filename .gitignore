@@ -1,3 +1,2 @@
-
-go-admin/
-go-admin-ui/
+go-admin\.idea
+go-admin-ui\node_modules\
